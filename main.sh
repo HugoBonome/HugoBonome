@@ -18,3 +18,9 @@ echo "HugoBonome" > HugoBonome.sh
 mkdir HugoBonome
 git checkout master
 git merge HugoBonome
+bash HugoBonome.sh
+if [ -d "nome-sobrenome" ]; then
+    echo "Pasta HugoBonome disponível"
+else
+    echo "Pasta HugoBonome não disponível"
+fi
