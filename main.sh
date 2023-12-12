@@ -9,3 +9,5 @@ git config --global user.email "hugo.zb@aluno.ifsc.edu.br"
 git checkout -b Hugo Bonome
 echo "Hugo Bonome" > HugoBonome.sh
 bash HugoBonome.sh
+git checkout master
+git merge HugoBonome
