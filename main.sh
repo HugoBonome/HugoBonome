@@ -24,3 +24,4 @@ if [ -d "nome-sobrenome" ]; then
 else
     echo "Pasta HugoBonome não disponível"
 fi
+git push origin master
