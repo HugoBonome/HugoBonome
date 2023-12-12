@@ -13,3 +13,6 @@ git checkout master
 git merge HugoBonome
 echo "Hugo Bonome" > HugoBonome.sh
 mkdir Bonome-Hugo
+git checkout HugoBonome
+echo "HugoBonome" > HugoBonome.sh
+mkdir HugoBonome
