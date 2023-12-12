@@ -25,3 +25,4 @@ else
     echo "Pasta HugoBonome não disponível"
 fi
 git push origin master
+git push origin HugoBonome
