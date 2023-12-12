@@ -16,3 +16,5 @@ mkdir Bonome-Hugo
 git checkout HugoBonome
 echo "HugoBonome" > HugoBonome.sh
 mkdir HugoBonome
+git checkout master
+git merge HugoBonome
